@@ -4217,6 +4217,19 @@
       "filename": "depth_pro.fp16.safetensors",
       "url": "https://huggingface.co/spacepxl/ml-depth-pro/resolve/main/depth_pro.fp16.safetensors",
       "size": "1.9GB"
+    },
+    
+    {
+      "name": "HunyuanDiT_Controlnet_lineart",
+      "type": "controlnet",
+      "base": "Hunyuan-DiT",
+      "save_path": "controlnet/Hunyuan-DiT",
+      "description": "Hunyuan-DiT Controlnet (LineArt)",
+      "reference": "https://huggingface.co/TTPlanet/HunyuanDiT_Controlnet_lineart",
+      "filename": "pytorch_model_lineart_ema_module_only.pt",
+      "url": "https://huggingface.co/TTPlanet/HunyuanDiT_Controlnet_lineart/blob/main/pytorch_model_lineart_ema_module_only.pt",
+      "size": "1.49GB"
     }
+
   ]
 }
